@@ -1,0 +1,10 @@
+pandas
+tqdm
+seaborn
+matplotlib
+pygments
+google-play-scraper
+pycountry
+googletrans==4.0.0-rc1
+fsspec
+adlfs
